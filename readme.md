@@ -1,5 +1,5 @@
 # Hello, Anvay here!
-This is a repository containing all the progress made by me throughout this 20 day journey of code streak.
+This is a repository containing all the projects which I'll be making in upcoming 20 days for code streak.
 # PROJECTS
 |Day|Project Name|
 |-----|----------------|
