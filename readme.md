@@ -7,3 +7,4 @@ This is a repository containing all the projects which I'll be making in upcomin
 |02|[Analog Clock](https://darkgraygigashockwave.github.io/DaysofCodeStreak/Day%202/)|
 |03|[Updating CSS Variables](https://darkgraygigashockwave.github.io/DaysofCodeStreak/Day%203/)|
 |04|[HTML5 Canvas](https://darkgraygigashockwave.github.io/DaysofCodeStreak/Day%204/)|
+|05|[Mouse Shadow](https://darkgraygigashockwave.github.io/DaysofCodeStreak/Day%205/)|
