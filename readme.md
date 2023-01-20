@@ -11,3 +11,4 @@ This is a repository containing all the projects which I'll be making in upcomin
 |06|[CountDown Timer](https://darkgraygigashockwave.github.io/DaysofCodeStreak/Day%206/)|
 |07|[BMI Calculator](https://darkgraygigashockwave.github.io/DaysofCodeStreak/Day%207/)|
 |08|[Grocery Shopping](https://darkgraygigashockwave.github.io/DaysofCodeStreak/Day%208/)|
+|09|[Number Guessing Game](https://darkgraygigashockwave.github.io/DaysofCodeStreak/Day%209/)|
