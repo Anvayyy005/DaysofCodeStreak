@@ -14,3 +14,4 @@ This is a repository containing all the projects which I'll be making in upcomin
 |09|[Number Guessing Game](https://darkgraygigashockwave.github.io/DaysofCodeStreak/Day%209/)|
 |10|[Palindrome checker](https://darkgraygigashockwave.github.io/DaysofCodeStreak/Day%2010/)|
 |11|[Word Guessing Game](https://darkgraygigashockwave.github.io/DaysofCodeStreak/day%2011/)|
+|12|[Memory Card Game](https://darkgraygigashockwave.github.io/DaysofCodeStreak/day%2012/)|
